@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Christian Kolbl](mailto:christian.kolbl@owasp.org)
+* [Philipp Schloyer](mailto:philipp.schloyer@owasp.org)
