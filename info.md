@@ -1,7 +1,13 @@
-### Augsburg Information
-* Provide Group Information
+### Navigation ([🔙](/www-chapter-germany/stammtische/#lokale-stammtische))
 
-### Social Links
+* zurück zu [OWASP Germany](/www-chapter-germany/)
+* zurück zu [Lokale Stammtische](/www-chapter-germany/stammtische/#lokale-stammtische)
+* [Stammtisch FAQ](/www-chapter-germany/stammtische/#stammtisch-faq)
+
+
+### Kontakt
 * [Meetup](#)
+* [Mastodon](#)
+* [X(Twitter)](#)
 
 
