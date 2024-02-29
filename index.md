@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Augsburg
 tags: example-tag
 region: Europe
+country: Germany
 meetup-group:
 
 ---
