@@ -27,7 +27,7 @@ Wir treffen uns an jedem 3. Mittwoch im Monat um 19:00. Die Location wird, bis a
 {% include chapter_events.html group=page.meetup-group %}
 {% endcomment %}
 
-### Ankündigung - 01. Stammtisch am 20.03.2024
+### Ankündigung - 01. Stammtisch am -- tbd -- (sorry für die Verzögerung!)
 
 #### Agenda
 
