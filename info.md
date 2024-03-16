@@ -6,8 +6,4 @@
 
 
 ### Kontakt
-* [Meetup](#)
-* [Mastodon](#)
-* [X(Twitter)](#)
-
-
+* [Meetup](https://www.meetup.com/de-DE/owasp-augsburg-chapter/)
