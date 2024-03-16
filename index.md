@@ -59,7 +59,10 @@ Immer her mit Euren Ideen! :-)
 
 {% comment %}
 ### Vergangene Stammtische
+
+{% include_relative /_includes/former_talks.md %}
 {% endcomment %}
+
 
 ### Links
 * Jeder kann an [OWASP-Projekten](/projects/) mitwirken
