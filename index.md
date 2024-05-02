@@ -22,7 +22,7 @@ Wir wechseln zwischen
 
 Nehmt auch gerne Freund\*innen, Kolleg\*innen etc. mit. Jeder der Anwesenden kann/darf/soll den Stammtisch mitgestalten. Jeglicher (konstruktiver) Input ist willkommen.
 
-Wir treffen uns an jedem 3. Mittwoch im Monat um 19:00. Die Location wird, bis wir etwas Festes<b>¹</b> gefunden haben, hier regelmäßig bekanntgegeben. In Einzelfällen, kann der Termin auch auf den 2. oder 4. Mittwoch verschoben werden - auch das wird hier bekanntgegeben.
+Wir treffen uns an jedem 4. Mittwoch im Monat um 19:00. Die Location wird, bis wir etwas Festes<b>¹</b> gefunden haben, hier regelmäßig bekanntgegeben. In Einzelfällen, kann der Termin auch auf einen anderen Mittwoch verschoben werden - auch das wird hier bekanntgegeben.
 
 Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [meetup](https://www.meetup.com/de-DE/owasp-augsburg-chapter/) und über die OWASP-Deutschland [Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/).
 
@@ -32,11 +32,14 @@ Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [
 {% include chapter_events.html group=page.meetup-group %}
 {% endcomment %}
 
-### Ankündigung - 01. Stammtisch voraussichtlich am 17.04.2024
+### Ankündigung - 02. Stammtisch am 29.05.2024
 
-#### Agenda: tbd
+#### Agenda:
+* Vortrag: **<- Wir suchen noch Vortragende!!**
+* Austausch & Networking 
 
-#### Ort: tbd
+
+#### Ort: [Thing](https://www.mein-thing.de/), Vorderer Lech 45, 86150 Augsburg
 
 #### Zeit: 19:00
 
@@ -52,7 +55,7 @@ Wichtiges für Talks in aller Kürze:
 * Auf <u>einer</u> Folie kannst du dich und deinen Arbeitgeber vorstellen - hier auch mit Logo
 * Vertriebler, die eine Verkaufsveranstaltung durchführen wollen, werden ausgebuht und müssen diverse Runden Bier ausgeben
 
-
+Auf Wunsch wirst du als Speaker genannt, verlinkt und deine Folien veröffentlicht (oder auch nicht - wie du magst). Vielleicht gibt es später auch Videoaufzeichnungen und Fotos - alles natürlich ganz freiwillig und datenschutzkonform 😎.
 
 ### Geplante Vorträge / Diskussionen / ...
 
