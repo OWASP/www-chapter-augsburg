@@ -22,7 +22,7 @@ Wir wechseln zwischen
 
 Nehmt auch gerne Freund\*innen, Kolleg\*innen etc. mit. Jeder der Anwesenden kann/darf/soll den Stammtisch mitgestalten. Jeglicher (konstruktiver) Input ist willkommen.
 
-Wir treffen uns an jedem 4. Mittwoch im Monat um 19:00. Die Location wird, bis wir etwas Festes<b>¹</b> gefunden haben, hier regelmäßig bekanntgegeben. In Einzelfällen, kann der Termin auch auf einen anderen Mittwoch verschoben werden - auch das wird hier bekanntgegeben.
+Wir treffen uns an **jedem 4. Mittwoch im Monat um 19:00**. Die Location wird, bis wir etwas Festes<b>¹</b> gefunden haben, hier regelmäßig bekanntgegeben. In Einzelfällen, kann der Termin auch auf einen anderen Mittwoch verschoben werden - auch das wird hier bekanntgegeben.
 
 Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [meetup](https://www.meetup.com/de-DE/owasp-augsburg-chapter/) und über die OWASP-Deutschland [Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/).
 
