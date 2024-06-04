@@ -32,17 +32,9 @@ Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [
 {% include chapter_events.html group=page.meetup-group %}
 {% endcomment %}
 
-### Ankündigung - 02. Stammtisch am 29.05.2024
+### Ankündigung - 03. Stammtisch am 26.06.2024
 
-#### Agenda:
-* Barcamp / Diskussion zum Thema "Supply Chain Risiken"
-    * Teaser
-    * Wie manage ich Supply Chain Risiken?
-    * Supply Chain Risiken im Kontext des EU Cyber Resilience Acts
-    * Welche Maßnahmen gibt es gegen Supply Chain Risiken?
-    * Supply Chain Risiken & Secure Device Provisioning
-    * ...
-* Networking im Allgemeinen & Austausch zu beliebigen Themen 
+#### Agenda: tbd - Du hast einen Vortrag? Du hast ein Thema, das dich interessiert? Zeig es uns! Vorträge sind immer willkommen!!
 
 #### Ort: [Thing](https://www.mein-thing.de/), Vorderer Lech 45, 86150 Augsburg
 
@@ -66,12 +58,6 @@ Auf Wunsch wirst du als Speaker genannt, verlinkt und deine Folien veröffentlic
 
 Immer her mit Euren Ideen! :-) 
 
-{% comment %}
-### Vergangene Stammtische
-
-{% include_relative /_includes/former_talks.md %}
-{% endcomment %}
-
 
 ### Links
 * Jeder kann an [OWASP-Projekten](/projects/) mitwirken
@@ -82,3 +68,7 @@ Immer her mit Euren Ideen! :-)
 * [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}
 * [OWASP-Mitglied werden](/membership/) 
 * [Spenden](/donate/) 
+
+### Vergangene Stammtische
+
+{% include_relative /_includes/former_talks.md %}
