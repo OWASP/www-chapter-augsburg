@@ -7,3 +7,5 @@
 
 ### Kontakt
 * [Meetup](https://www.meetup.com/de-DE/owasp-augsburg-chapter/)
+* [Stammtisch](https://owasp.org/www-chapter-germany/stammtische/augsburg/)
+* [LinkedIn-Gruppe](https://www.linkedin.com/groups/9858092/)
