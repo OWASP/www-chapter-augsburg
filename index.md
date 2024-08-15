@@ -32,7 +32,9 @@ Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [
 {% include chapter_events.html group=page.meetup-group %}
 {% endcomment %}
 
-### Ankündigung - 04. Stammtisch am 24.07.2024
+**ACHTUNG:** Im **August** findet **KEIN** Stammtisch statt! - Erst wieder im **September**
+
+### Ankündigung - 05. Stammtisch am 25.09.2024
 
 #### Agenda: tbd
 
