@@ -32,7 +32,7 @@ Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [
 {% include chapter_events.html group=page.meetup-group %}
 {% endcomment %}
 
-### Ankündigung - 06. Stammtisch (2. Versuch) am 27.11.2024
+### Ankündigung - 06. Stammtisch am 27.11.2024
 
 #### Agenda: tbd
 
