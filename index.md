@@ -46,7 +46,7 @@ Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [
 
 #### Agenda: GOD in a Nutshell
 
-Christian Kölbl wird einen kurzen Erfahrungsbericht über den German OWASP Day 2024 geben: Insights, Training, Chapter Meeting und Vorträge. 
+Christian Kölbl wird einen kurzen Erfahrungsbericht über den German OWASP Day 2024 (https://god.owasp.de/2024/) geben: Insights, Training, Chapter Meeting und Vorträge. 
 
 ...es ist aber natürlich noch Platz für einen Vortrag :-)
 
