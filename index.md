@@ -34,9 +34,10 @@ Ankündigungen wann & wo ein Stammtisch stattfinden wird, findet ihr hier, auf [
 ### Ankündigung Stammtische 2025
 Hallo zusammen und ein frohes neues Jahr! 🍔 
 Anbei gibt's gleich mal die guten Vorsätze für's neue Jahr - die voraussichtlichen Stammtischtermine 2025 🗓️ 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 👉 Es werden noch Speaker*innen gesucht!! 👈 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
 ℹ️ **Info**
 Nach unserem Piloten bei der meteocontrol GmbH im Dezember 2024 werden wir versuchen quartalsweise einmal in einer Firma oder einem Unternehmen einen Stammtisch abzuhalten. 
 
@@ -58,6 +59,16 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 - Oktober: 22.10. (tbd.)
 - November: 26.11. (tbd.)
 - Dezember: --- ❄️ -Pause
+
+### Ankündigung - 08. Stammtisch am 22.01.2025
+Agenda: tbd
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+👉 Es werden noch Speaker*innen gesucht!! 👈 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+
+#### Ort: Thing (https://www.mein-thing.de/), Vorderer Lech 45, 86150 Augsburg
+
+#### Zeit: 19:00
 
 #### Anmeldung:
 
