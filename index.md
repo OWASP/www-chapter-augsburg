@@ -68,17 +68,16 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 
 ### Ankündigung - 12. Stammtisch am 28.05.2025 bei Nuvotex (Südtiroler Str. 13/1/2, 86165 Augsburg)
 
-📢Save the date 🗓️ Mittwoch, 28.05.2025
+**Uhrzeit:** 19:00
+**Host:** 👉 Nuvotex 👈 (https://www.nuvotex.de/)
+**Vortragender:** Christian Kölbl
+**Thema:** CSP? XSS -> LMAA
+Cross-Site-Scripting (XSS) ist mehr als nur das Anzeigen von lustigen alert()-Fenstern. Weit mehr und weit böser. Erstaunlicherweise gibt es diesen Angriff bereits seit Anfang der 1990er und selbst 2024 ist er noch immer aktuell. Aber kann man dagegen nichts machen? Input-Validation ist echt hart und es gibt soo viele Zeichen... :-/
+Eine mögliche Lösung ist die "Content-Security-Policy" und obwohl sie extrem mächtig ist, wird sie erstaunlicherweise wenig genutzt.
+Ich möchte euch in diesem Vortrag zeigen wie man sich mit der CSP gegen XSS-Attacken schützen kann und was es ggf. für Pitfalls gibt.
 
-Auch im Mai wird bei OWASP in Augsburg wieder gefachsimpelt, aber diesmal ❌nicht im Thing❌, sondern bei 👉 [Nuvotex](https://nuvotex.de/). 👈 
-🙏 Bereits jetzt schon ein herzliches Dankeschön an den Gastgeber. 🙏 
-
-Derzeit haben sich noch **keine Vortragenden** gemeldet! 🧐 
-Ihr habt eine Idee und Lust einen Vortrag zu halten, wollt ein Thema zur Diskussion stellen oder von etwas berichten, dass euch gerade umtreibt? Auf geht's! Keine Scheu! Wir beißen nicht! 😁 
-Oder probieren wir's lieber so: Wenn sich keiner findet, halte vielleicht ich einen Vortrag (das sollte als Warnung UND Motivation ausreichen). 😈 
-
-I'll keep you posted!
-
+**Meetup:**
+https://www.meetup.com/de-DE/owasp-augsburg-chapter/events/307772680/
 
 #### Host: Nuvotex (https://nuvotex.de/)
 
