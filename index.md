@@ -48,9 +48,7 @@ Nach unserem Piloten bei der meteocontrol GmbH im Dezember 2024 werden wir versu
 
 Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf spannende Vorträge und interessante Diskussionen!
 
-- Q3: Juli: 23.7.25 (tbd.)
-- Q3: August --- 🌞 -Pause
-- Q3: September: 24.9.25 (tbd.)
+- Q3: September: 24.9.25 (Thing)
 - Q4: Oktober: 22.10.25 (tbd.)
 - Q4: November: 26.11.25 (tbd.)
 - Q4: Dezember: --- ❄️ -Pause
@@ -63,16 +61,20 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 - Q2: April: 22.4.26
 - Q2: Mai: 27.05.26
 - Q2: Juni: 24.06.26
+- Q3: Juli: 22.7.26
+- Q3: August --- 🌞 -Pause
 
 
-### Ankündigung - 14. Stammtisch am 23.07.2025 im Thing (Vorderer Lech 45, 86150 Augsburg)
 
-Am 🗓️ Mittwoch den 23.07. findet im Thing der 14. OWASP Stammtisch statt. 
+### Ankündigung - 15. Stammtisch am 24.09.2025 im Thing (Vorderer Lech 45, 86150 Augsburg)
 
-#### Agenda:
-**Vortrag:** 👉 Im Dschungel der SOC-Anbieter: Worauf es wirklich ankommt 👈 von Tobias Hellmann.
+Raus aus der Sommerpause 🌞 und rein in den Jahresendspurt ❄️ 
 
-Tobias beschäftigt sich seit 2016 mit verschiedenen Aspekten der Cybersicherheit. Er begann seine Karriere als IT-Security Officer und vertiefte sein Wissen durch einen Bachelor-Abschluss in IT-Sicherheit sowie ein Master-Abschluss in Sicherheitsmanagement. Aus seiner beruflichen Vergangenheit kennt er die Herausforderungen des Mittelstand beim Kampf gegen Windmühlen. Daher arbeitet er heute beim Berliner StartUp intcube an/mit skalierbaren Methoden und Maßnahmen mit nachhaltigem Mehrwert.
+Gerade wenn es draußen kälter wird, sollte man sich ins Warme flüchten. Daher findet zu diesem Zweck "drinnen" am 🗓️ Mittwoch dem 24.09. der 15. OWASP Augsburg Stammtisch statt. Und zwar im Thing um 19:00 - wie gewohnt! :-)
+
+👋 **Wir haben noch keine Agenda und würden uns über Vorträge freuen!**
+
+Aber vielleicht haben die letzten beiden Monate ja auch genug Gesprächsstoff (Bitnami, qix, npx -> yolo, ...) für einen kommunikativen Abend geliefert. 🤔 Bringt gerne Themen mit!
 
 #### Ort: Thing (Vorderer Lech 45, 86150 Augsburg)
 
