@@ -1,0 +1,28 @@
+leaders:
+  - name: Christian Kölbl
+    email: christian.kolbl@owasp.org
+    github: chkoelbl
+  - name: Philipp Schloyer
+    email: philipp.schloyer@owasp.org
+  - name: Heiko Hummel
+    email: heiko.hummel@owasp.org
+  - name: Benjamin Pfeifer
+    email: benjamin.pfeifer@owasp.org
+location:
+  country: Germany
+  country_code: DE
+  region: Bavaria
+  city: Augsburg
+  latitude: 48.3690341
+  longitude: 10.8979522
+meetup_group: owasp-augsburg-chapter
+name: OWASP Augsburg
+repositories:
+  - name: www-chapter-augsburg
+    url: https://github.com/OWASP/www-chapter-augsburg
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-augsburg
