@@ -1,4 +1,12 @@
-**18. Stammtisch am 28.01.2026 im Thing**
+**19. Stammtisch am 28.01.2026 im Thing**
+
+**Speaker: Christian Kölbl**
+
+**Vortrag: Defectdojo & DevSecOps**
+
+Als Lighting Talk / Q&A-Session / Diskussionsrunde stellt Christian Kölbl das OWASP ASPM Tool Defectdojo vor, sowie OSS-Möglichkeiten darum eine DevSecOps-Pipeline aufzubauen. ASPM? 🤔 Natürlich Applications and Security Posture! Oder anders gesagt: Jede Menge Tools, jede Menge Dashboards, aber keine einheitliche Übersicht 🤓 . See u there!
+
+**18. Stammtisch am 28.01.2026 bei MAIBORNWOLFF**
 
 **Speaker: Johannes Geiger**
 
