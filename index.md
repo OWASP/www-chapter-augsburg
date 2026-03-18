@@ -50,8 +50,7 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
   
 **2026**
 
-- Q1: Februar: 25.2.26 - Gaststätte Thing, Vorderer Lech 45, 86150 Augsburg
-- Q1: März: 25.3.26
+- Q1: März: 25.3.26 - Gaststätte Thing, Vorderer Lech 45, 86150 Augsburg
 - Q2: April: 22.4.26
 - Q2: Mai: 27.05.26
 - Q2: Juni: 24.06.26
@@ -65,24 +64,12 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 **2027**
 
 - Q1: Januar: 27.01.27 tbd.
+- Q1: Februar: 24.2.27 tbd. 
 
 
+### Ankündigung - 20. Stammtisch am 25.02.2026 im [Thing]([http://www.mein-thing.de/]) (Vorderer Lech 45, 86150 Augsburg)
 
-### Ankündigung - 19. Stammtisch am 25.02.2026 im [Thing]([http://www.mein-thing.de/]) (Vorderer Lech 45, 86150 Augsburg)
-
-#### Agenda:
-
-**Vortrag:** Defectdojo & DevSecOps
-
-Als Lighting Talk / Q&A-Session / Diskussionsrunde stellt Christian Kölbl das OWASP ASPM Tool Defectdojo vor, sowie OSS-Möglichkeiten darum eine DevSecOps-Pipeline aufzubauen.
-ASPM? 🤔 Natürlich Applications and Security Posture! Oder anders gesagt: Jede Menge Tools, jede Menge Dashboards, aber keine einheitliche Übersicht 🤓 .
-See u there! 
-
-**Speaker:** Christian Kölbl
-
-Ein Lautsprecher ist ein Schallwandler, der elektrische Energie in akustische Energie umwandelt...so gesehen ist Christian ein IT-Security-Lautsprecher :-)
-
-Christian ist Gründer des OWASP Augsburg Stammtischs und arbeitet als IT-Security-Architect an der Umwandlung von DevOps in DevSecOps.
+#### Agenda: tbd
 
 #### Ort: Gaststätte Thing (Vorderer Lech 45, 86150 Augsburg)
 
