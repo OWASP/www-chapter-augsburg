@@ -50,8 +50,7 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
   
 **2026**
 
-- Q1: März: 25.3.26 - Gaststätte Thing, Vorderer Lech 45, 86150 Augsburg
-- Q2: April: 22.4.26
+- Q2: April: 22.4.26 - Gaststätte Thing, Vorderer Lech 45, 86150 Augsburg
 - Q2: Mai: 27.05.26
 - Q2: Juni: 24.06.26
 - Q3: Juli: 22.7.26
@@ -64,12 +63,16 @@ Und hier wie versprochen die voraussichtlichen Termine. Ich freue mich schon auf
 **2027**
 
 - Q1: Januar: 27.01.27 tbd.
-- Q1: Februar: 24.2.27 tbd. 
+- Q1: Februar: 24.2.27 tbd.
+- Q1: März: 24.3.27 tbd.
 
 
-### Ankündigung - 20. Stammtisch am 25.02.2026 im [Thing]([http://www.mein-thing.de/]) (Vorderer Lech 45, 86150 Augsburg)
+### Ankündigung - 21. Stammtisch am 22.04.2026 im [Thing]([http://www.mein-thing.de/]) (Vorderer Lech 45, 86150 Augsburg)
 
-#### Agenda: tbd
+#### Agenda: Vulnerabilities, kann man das Essen und wie schmeckt das? Von CVE, CWE und CPE.
+Im Vortrag wir besprochen, welche Daten zu Vulnerabilities es gibt und wie man damit umgeht. Dabei gehen wir über die Quellen, die Berechnung bis hin zu dem, was offenbleibt.
+**Speaker:  Christopher P. Proske** 
+Christopher ist IT-Security Berater seit über 10 Jahren. Fokus auf Governance und Prozesse mit Schwerpunkt Cyber-Risk. Er arbeitet dafür die Kluft zwischen Management und Betrieb zu überwinden, um eine florierende digitale Zukunft zu kreieren.
 
 #### Ort: Gaststätte Thing (Vorderer Lech 45, 86150 Augsburg)
 
