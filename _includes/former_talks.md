@@ -1,3 +1,11 @@
+**21. Stammtisch am 22.04.2026 im Thing**
+
+**Speaker:  Christopher P. Proske** 
+
+**Vortrag: Vulnerabilities, kann man das Essen und wie schmeckt das? Von CVE, CWE und CPE.**
+
+Im Vortrag wir besprochen, welche Daten zu Vulnerabilities es gibt und wie man damit umgeht. Dabei gehen wir über die Quellen, die Berechnung bis hin zu dem, was offenbleibt.
+
 **19. Stammtisch am 28.01.2026 im Thing**
 
 **Speaker: Christian Kölbl**
