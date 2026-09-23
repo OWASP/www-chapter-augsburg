@@ -2,13 +2,16 @@
 
 layout: col-sidebar
 title: OWASP Augsburg
-tags: example-tag
+tags: germany augsburg
 region: Europe
 country: Germany
-meetup-group: owasp-augsburg-chapter
+meetup-group: /owasp-augsburg-chapter/
+postal-code: 86152
 
 ---
-## Willkommen beim OWASP-Stammtisch Augsburg!
+
+## Willkommen beim OWASP-Stammtisch Augsburg!!
+
 In der Fuggerstadt wird IT-SECURITY groß geschrieben. Egal ob IT-Security-Interessent*in, CISO, Hacker/Haeckse, Pentester*in, Entwickler*in, Netzi, Endanwender*in oder whatever - alle sind willkommen. Eine OWASP-Mitgliedschaft ist (natürlich wünschenswert, aber) nicht notwendig!
 
 **Wir freuen uns auf neue Gesichter, Stammgäste und sporadische Teilnehmer*innen :-)**
